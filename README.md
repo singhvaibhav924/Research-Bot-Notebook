@@ -1,7 +1,7 @@
 
 # Brain-Tumor-Detection-CNN
 
-This GenAI project is helpful for researchers who want to research about some topics but dont know from where to start. If you have any research idea or if you have a project abstract ready you can input that in this program and it will perform literature survey for you and will provide you with Literature Review containing overview about all recent works in that domain with proper references.
+This GenAI project is powered by multiple LLMs and is helpful for researchers who want to research about some topics but dont know from where to start. If you have any research idea or if you have a project abstract ready you can input that in this program and it will perform literature survey for you and will provide you with Literature Review containing overview about all recent works in that domain with proper references.
 ## Workflow
 
 ![Workflow](Workflow.png)  
